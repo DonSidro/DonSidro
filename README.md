@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sidonkodraliu" target="blank"><img src="https://img.shields.io/twitter/follow/sidonkodraliu?logo=twitter&style=for-the-badge" alt="sidonkodraliu" /></a> </p>
 
-- 🔭 I’m currently working on [Get It Done](https://github.com/DonSidro/GetItDoneApp)
+- 🔭 I’m currently working on [SupChat](https://github.com/DonSidro/)
 
 - 🌱 I’m currently learning **Kotlin, Jetpack compose**
 

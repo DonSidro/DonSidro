@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/sidonkkorcaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidonkkorcaj" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9229448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9229448" height="30" width="40" /></a>
 <a href="https://instagram.com/sidonkodraliu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidonkodraliu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sidon kodraliu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sidon kodraliu" height="30" width="40" /></a>
+<a href="http://youtube.com/@mitSmartHome/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sidon kodraliu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

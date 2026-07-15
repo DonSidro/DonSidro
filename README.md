@@ -17,7 +17,7 @@ I'm a passionate software engineer focused on building **high-quality, reliable 
 
 - 🔭 Currently working on **[LocalRock](https://github.com/DonSidro/LocalRock)**
 - 💬 Ask me about **Android, C#, Unity, and Python**
-- 📫 Reach me at **donsidro@gmail.com**
+- 📫 Reach me at **sidon@kodraliu.com**
 - ⚡ Fun fact: **I like fishing** 🎣
 
 ---
